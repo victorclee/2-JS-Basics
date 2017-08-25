@@ -27,8 +27,10 @@ if (vScore > gScore && vScore > mScore) {
   console.log('Victor is the winner, with the score of ' + vScore);
 } else if (gScore > vScore && gScore > mScore) {
   console.log('Gregory is the winner, with the score of ' + gScore);
-} else {
+} else if (mScore > vScore && mScore > gScore) {
   console.log('Michael is the winner, with the score of ' + mScore);
+} else {
+  console.log('There is a draw!');
 }
 
 
