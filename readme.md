@@ -9,3 +9,5 @@
 4. Operators
 
 5. if/else Statements
+
+6. Boolean logic and switch statements
