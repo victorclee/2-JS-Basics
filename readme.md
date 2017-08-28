@@ -11,3 +11,5 @@
 5. if/else Statements
 
 6. Boolean logic and switch statements
+
+7. Functions
